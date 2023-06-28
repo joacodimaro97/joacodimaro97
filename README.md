@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin: joaquindimaro](https://img.shields.io/badge/-joaquindimaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquin-dimaro-fernandez-441106231/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: joaquindimaro](https://img.shields.io/badge/-joaquindimaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquin-dimaro-fernandez-441106231/)](https://www.linkedin.com/in/joaquin-dimaro-fernandez-441106231/)
 
 
 
