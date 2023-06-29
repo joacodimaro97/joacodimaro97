@@ -13,7 +13,7 @@
 ```javascript
 const joaco = {
   pronouns: "he" | "joa" | "joaco",
-  code: [Javascript, React, HTML5, CSS, Node js, Mongo DB, Unit test],
+  code: [Javascript, React, Html5, Css, NodeJs, MongoDb, UnitTest],
   tools: [React, Redux, Zustand, Figma, Styled-Components, Trello, Express, and more.. ],
   data: {
                         city: "Chivilcoy",
