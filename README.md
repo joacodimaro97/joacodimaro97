@@ -25,8 +25,8 @@ const joaco = {
                         soccerTeam: "Boca Juniors",
                         favoriteFood: "pastas"
                       },
- challenge: "I completed the final challenge of Mindhub, creating an e-commerce from scratch
-in a period of ten days, a great challenge."
+ challenge: "I completed the final challenge of Mindhub, creating an e-commerce
+from scratch in a period of ten days, a great challenge."
 }
 ```
 
