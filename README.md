@@ -28,6 +28,7 @@ const joaco = {
  challenge: "I completed the final challenge of Mindhub, creating an e-commerce
 from scratch in a period of ten days, a great challenge."
 }
+work: DYS Total Assistance
 ```
 
 <img src="https://i.postimg.cc/wx1Dfmjc/joa.jpg" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
