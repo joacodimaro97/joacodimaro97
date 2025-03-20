@@ -17,16 +17,14 @@ const joaco = {
   tools: [React, Redux, Zustand, Figma, Styled-Components, Trello, Express, and more.. ],
   data: {
                         city: "Chivilcoy",
-                        age: 26%,
+                        age: 27%,
                         sport: "hockey",
                         hobby: "figma web design",
                         counterStrike: "ct, always",
                         travel: "anywhere in the world where it is not cold",
                         soccerTeam: "Boca Juniors",
                         favoriteFood: "pastas"
-                      },
- challenge: "I completed the final challenge of Mindhub, creating an e-commerce
-from scratch in a period of ten days, a great challenge."
+                      }
 }
 work: DYS Total Assistance
 ```
