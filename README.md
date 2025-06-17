@@ -17,7 +17,7 @@ const joaco = {
   tools: [React, Redux, Zustand, Figma, Styled-Components, Trello, Express, and more.. ],
   data: {
                         city: "Chivilcoy",
-                        age: 27%,
+                        age: 28%,
                         sport: "hockey",
                         hobby: "figma web design",
                         counterStrike: "ct, always",
