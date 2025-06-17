@@ -1,6 +1,6 @@
 <h2> Hi, I'm Joaco! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="230">
-<p><em>Full Stack Dev at <a href="http://www.unb.br">Mindhub Latam</a> 
+<p><em>Front-end Dev
 </em></p>
 
 
