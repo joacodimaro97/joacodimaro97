@@ -1,35 +1,31 @@
-<h2> Hi, I'm Joaco! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="230">
-<p><em>Front-end Dev
-</em></p>
+<h1 align="center">👋 Hi, I'm Joaquín Dimaro</h1>
+<h3 align="center">Front-end Developer | UX/UI Enthusiast | Co-founder at DYS Total Assistance</h3>
 
+---
 
-[![Linkedin: joaquindimaro](https://img.shields.io/badge/-joaquindimaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquin-dimaro-fernandez-441106231/)](https://www.linkedin.com/in/joaquin-dimaro-fernandez-441106231/)
-
-
-
-###  A little more about me...  
-
+### 👨‍💻 About Me
 ```javascript
 const joaco = {
-  pronouns: "he" | "joa" | "joaco",
-  code: [Javascript, React, Html5, Css, NodeJs, MongoDb, UnitTest],
-  tools: [React, Redux, Zustand, Figma, Styled-Components, Trello, Express, and more.. ],
+  pronouns: ["he", "joa", "joaco"],
+  code: ["JavaScript", "React", "Node.js", "MongoDB", "HTML5", "CSS3"],
+  tools: ["Redux", "Zustand", "Express", "Tailwind", "Styled-Components", "Figma", "Trello"],
   data: {
-                        city: "Chivilcoy",
-                        age: 28%,
-                        sport: "hockey",
-                        hobby: "figma web design",
-                        counterStrike: "ct, always",
-                        travel: "anywhere in the world where it is not cold",
-                        soccerTeam: "Boca Juniors",
-                        favoriteFood: "pastas"
-                      }
+    city: "Chivilcoy, AR",
+    age: 28,
+    hobby: "Designing in Figma 🎨",
+    sport: "Hockey 🏑",
+    gaming: "Counter-Strike: CT 💥",
+    team: "Boca Juniors 💙💛💙",
+    food: "Pastas 🍝",
+    travel: "Anywhere warm 🌞"
+  },
+  work: "DYS Total Assistance 🚀"
 }
-work: DYS Total Assistance
-```
+⚡ Tech Stack
+<p> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,styledcomponents,figma,git,github,vscode" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joacodimaro97&show_icons=true&theme=tokyonight" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joacodimaro97&layout=compact&theme=tokyonight" height="165" /> </p>
+🌍 Connect with Me
 
-<img src="https://i.postimg.cc/wx1Dfmjc/joa.jpg" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-
-Credits: [Thaiane](https://github.com/Thaiane)
+<img src="https://i.postimg.cc/wx1Dfmjc/joa.jpg" width="60"> <em><b>I love connecting with people</b>, so feel free to reach out! 🚀</em> ```
